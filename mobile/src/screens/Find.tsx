@@ -15,9 +15,6 @@ export function Find(){
           Encontre um bolão através de {'\n'} seu código único
         </Heading>
 
-        
-
-      
         <Input
           mb={2}
           placeholder="Qual código do seu bolão?"

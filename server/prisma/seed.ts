@@ -41,7 +41,7 @@ await prisma.game.create({
     guesses:{
       create:{
         firstTeamPoints: 2,
-        secondTemPoints: 1,
+        secondTeamPoints: 1,
 
         participant:{
           connect:{
