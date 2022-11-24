@@ -141,7 +141,7 @@ import { authenticate } from "../plugins/authenticate"
         }
       })
 
-      return pools
+      return {pools: pools}
 
     })
 

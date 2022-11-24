@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "babel-plugin-inline-dotenv": "^1.7.0",
+    "dotenv": "^16.0.3",
     "phosphor-react-native": "^1.1.2"
   }
 }
